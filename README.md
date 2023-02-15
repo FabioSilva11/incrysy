@@ -1,12 +1,10 @@
 # Incrysy
 
+Este é o projeto do Incrysy, um aplicativo que permite criar e editar aplicativos móveis por meio de uma interface gráfica simples e intuitiva de arrastar e soltar, sem a necessidade de conhecimentos em programação.
+
 <div style="display:flex">
     <img src="img/01.jpg" style="max-width: 10%;">
-    <img src="img/02.jpg" style="max-width: 10%;">
-    <img src="img/03.jpg" style="max-width: 10%;">
 </div>
-
-Este é o projeto do Incrysy, um aplicativo que permite criar e editar aplicativos móveis por meio de uma interface gráfica simples e intuitiva de arrastar e soltar, sem a necessidade de conhecimentos em programação.
 
 ## Funcionalidades
 
@@ -20,9 +18,17 @@ O Incrysy possui as seguintes funcionalidades:
 - Loja de projetos, onde os usuários podem compartilhar seus projetos criados e outras pessoas podem baixá-los e editá-los
 - Venda de projetos e templates pelos usuários, que podem ganhar dinheiro compartilhando seus projetos com outras pessoas
 
+<div style="display:flex">
+    <img src="img/02.jpg" style="max-width: 10%;">
+</div>
+
 ## Como o Incrysy funciona
 
 O Incrysy permite criar aplicativos móveis por meio de uma interface gráfica intuitiva de arrastar e soltar, sem a necessidade de codificação. Os usuários podem adicionar componentes de interface, como botões, caixas de texto e imagens, e personalizar cores e estilos sem escrever uma única linha de código. Além disso, o Incrysy oferece blocos intuitivos de arrastar e soltar para adicionar funcionalidades de lógica, como loops e condicionais.
+
+<div style="display:flex">
+    <img src="img/03.jpg" style="max-width: 10%;">
+</div>
 
 ## Contribuições
 
