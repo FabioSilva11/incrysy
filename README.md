@@ -1,5 +1,9 @@
 # Incrysy
 
+![exemplo retirado do sketchware](img/01.jpg)
+![exemplo retirado do sketchware](img/02.jpg)
+![exemplo retirado do sketchware](img/03.jpg)
+
 Este é o projeto do Incrysy, um aplicativo que permite criar e editar aplicativos móveis por meio de uma interface gráfica simples e intuitiva de arrastar e soltar, sem a necessidade de conhecimentos em programação.
 
 ## Funcionalidades
