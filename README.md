@@ -1,9 +1,9 @@
 # Incrysy
 
 <div style="display:flex">
-    <img src="img/01.jpg" style="max-width: 30%;">
-    <img src="img/02.jpg" style="max-width: 30%;">
-    <img src="img/03.jpg" style="max-width: 30%;">
+    <img src="img/01.jpg" style="max-width: 10%;">
+    <img src="img/02.jpg" style="max-width: 10%;">
+    <img src="img/03.jpg" style="max-width: 10%;">
 </div>
 
 Este é o projeto do Incrysy, um aplicativo que permite criar e editar aplicativos móveis por meio de uma interface gráfica simples e intuitiva de arrastar e soltar, sem a necessidade de conhecimentos em programação.
